@@ -11,7 +11,8 @@ npm install
 or
 yarn install
 
-##Usage
+Usage
+
 Start the app by running the following command:
 npm start
 or
