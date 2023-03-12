@@ -3,8 +3,7 @@ This is a simple React app that allows users to log in and view and manage stude
 
 Installation
 1. Clone this repository to your local machine.
-git clone https://github.com/yourusername/student-dashboard.git
-
+git clone https://github.com/yashbabu19/CSV-File-Upload-Frontend.git
 2.Install the required dependencies using npm or yarn.
 
 npm install
